@@ -7,4 +7,4 @@ doctor Stalin Falta
 *Toalombo
 
 ### link
-[este es la imagen] https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fotochismes.com%2F2011%2F09%2F30%2Fgoogle-imagenes-rastreador-de-imagenes-interesante-para-seguir-la-pista-de-usos-indebidos%2F&psig=AOvVaw1kf617f15A2jPQxpG51Nvh&ust=1583508995655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNij4-3Ug-gCFQAAAAAdAAAAABAS
+![este es la imagen] https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fotochismes.com%2F2011%2F09%2F30%2Fgoogle-imagenes-rastreador-de-imagenes-interesante-para-seguir-la-pista-de-usos-indebidos%2F&psig=AOvVaw1kf617f15A2jPQxpG51Nvh&ust=1583508995655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNij4-3Ug-gCFQAAAAAdAAAAABAS
